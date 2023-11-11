@@ -1,0 +1,5 @@
+.DS_Store
+llava/*.gguf
+*.json
+.env
+multimodal
